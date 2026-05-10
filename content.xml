@@ -1,0 +1,799 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260510205254J2Y69P</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260510205254IVSZKS</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Ética y actualidad en las ondas: reflexión ética en la sociedad contemporánea.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Un pódcast filosófico</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Andrea Gómez Giraldo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>🎙️ Proyecto: Ética en las ondas. 
+De la teoría al podcast: Analizando el mundo actual
+Este proyecto invita al alumnado a sumergirse en el pensamiento crítico a través de un viaje que conecta las grandes ideas de la Historia de la Filosofía con los dilemas del siglo XXI.
+
+🎯 ¿Qué vamos a lograr?
+- Analizar las principales teorías éticas de la Historia de la Filosofía.
+- Desarrollar una conciencia crítica ante los problemas morales actuales.
+- Argumentar con rigor sobre los desafíos éticos de nuestra sociedad.
+
+🔍 ¿Qué temas exploraremos?
+Nos enfrentaremos a retos contemporáneos divididos en grandes ejes:
+- Tecnología y Vida: Bioética e Infoética.
+- Justicia Social: Desigualdad y discriminación.
+- Nuestro Entorno: Sostenibilidad y derechos de los animales.
+
+🚀 El Desafío: Filósofos ante el Micrófono
+¿Tienen Aristóteles, Kant o Mill algo que decir sobre la inteligencia artificial o el cambio climático? Tu misión es demostrar que sí.
+Investiga: Indaga en las raíces del pensamiento ético universal.
+Conecta: Aplica esas teorías a problemas urgentes: desde la brecha digital hasta el bienestar animal.
+
+📦Producto Final
+El aprendizaje culminará con la creación de un Podcast Ético. 
+En él, aplicaréis el rigor filosófico para proponer soluciones a un problema real, fomentando el debate y la reflexión en nuestra comunidad educativa.
+</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778439052711</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1778431312485-jbet4kohb</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica del proyecto</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778431312485-jbet4kohb</odePageId>
+      <odeBlockId>block-1778431339625-1002lanw6</odeBlockId>
+      <blockName>Justificación del proyecto dentro de la programación de Filosofía de 1º de Bachillerato</blockName>
+      <iconName>history</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778431312485-jbet4kohb</odePageId>
+          <odeBlockId>block-1778431339625-1002lanw6</odeBlockId>
+          <odeIdeviceId>idevice-1778431339624-chg2wqxr6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<h4 style="text-align: center;"><strong>“La búsqueda de la vida buena: reflexión ética en la sociedad contemporánea”</strong></h4>
+<h5 style="text-align: justify;">1. Centro de interés</h5>
+<ul>
+<li style="text-align: justify;">Despertar en el alumnado una conciencia clara sobre los problemas éticos.</li>
+<li style="text-align: justify;">Atender desde una reflexión crítica, y basándose en las teorías éticas estudiadas,  los desafíos éticos de nuestro tiempo. </li>
+</ul>
+<h5 style="text-align: justify;">2. Nivel, materia e idioma</h5>
+<p style="text-align: justify;">1º de Bachillerato. Asignatura: Filosofía. Se trata de promover la reflexión ética fundamentada para abordar los desafíos actuales Se podría colaborar con el departamento de Lengua y Literatura y tratar transversalmente cómo se han plasmado  las cuestiones éticas desde la literatura.  El idioma vehicular será el Castellano. </p>
+<h5 style="text-align: justify;">3. Temporalización</h5>
+<p style="text-align: justify;">Durante la primera parte del tercer trimestre, la situación de aprendizaje se desarrollará en 15 sesiones, aproximadamente.</p>
+<h5 style="text-align: justify;">4. Descripción general:</h5>
+<p style="text-align: justify;">Desarrollar en el alumnado una conciencia crítica y reflexiva respecto a los problemas éticos, mediante el análisis riguroso de las principales teorías filosóficas a lo largo de la Historia de la Filosofía. A partir de esta comprensión teórica, fomentar la capacidad de reflexión fundamentada para abordar de manera consciente y argumentada los desafíos éticos contemporáneos, incluyendo cuestiones relacionadas con la bioética, la infoética, la desigualdad social, la discriminación, la sostenibilidad medioambiental y la protección de los derechos de los animales.</p>
+<p style="text-align: justify;"><br />Como producto final el alumnado elaborará un podcast en el que analice un problema ético contemporáneo aplicando las teorías filosóficas estudiadas, argumentando posibles soluciones y fomentando la reflexión crítica sobre la sociedad actual.</p>
+<h5 style="text-align: justify;">5. Saberes Básicos:</h5>
+<p style="text-align: justify;">FILO.1.C.1.1. La condición moral del ser humano: libertad y responsabilidad. El problema ético: cómo hemos de actuar. Ser y deber ser. La deliberación moral. Las condiciones del juicio y el diálogo ético. </p>
+<p style="text-align: justify;">FILO.1.C.1.2. La fundamentación del bien moral. La posibilidad de una ética racional. Cognitivismo y emotivismo. El debate en torno al relativismo moral. El reto de una ética universal de mínimos.</p>
+<p style="text-align: justify;">FILO.1.C.1.3. Las principales respuestas al problema ético: éticas consecuencialistas, éticas del deber y éticas de la virtud. La moral amoral de Nietzsche. Éticas del cuidado. Ética medioambiental. Éticas aplicadas.</p>
+<p style="text-align: justify;">FILO.1.C.1.4. Los derechos humanos: su génesis, legitimidad y vigencia actual. Las distintas generaciones de derechos humanos. Los derechos de los animales. FILO.1.C.1.5. Grandes cuestiones éticas de nuestro tiempo: la desigualdad y la pobreza; la igualdad efectiva de derechos entre hombres y mujeres; la guerra, el terrorismo y otras formas de violencia; los derechos de la infancia; la igualdad entre hombres y mujeres; la discriminación y el respeto a las minorías; los problemas ecosociales y medioambientales; los derechos de los animales. Desafío ético para lograr el Desarrollo sostenible. Big Data y la manipulación de la información.</p>
+<h5 style="text-align: justify;">6. Criterios de evaluación:</h5>
+<p style="text-align: justify;">2.2. Desarrollar una actitud indagadora, autónoma y activa en el ámbito de la reflexión filosófica, mediante el diseño, la elaboración y la comunicación pública de productos originales, tales como trabajos de investigación, disertaciones o comentarios de texto. </p>
+<p style="text-align: justify;">8.1. Desarrollar el propio juicio y la autonomía moral mediante el análisis filosófico de problemas éticos y políticos fundamentales y de actualidad, considerando las distintas posiciones en disputa y elaborando, argumentando, exponiendo y sometiendo al diálogo con los demás las propias tesis al respecto. </p>
+<p style="text-align: justify;">8.2. Obtener y demostrar un conocimiento suficientemente profundo de las principales teorías éticas y políticas, utilizándolas para analizar problemas contemporáneos en el ámbito social y político.</p>
+<h5 style="text-align: justify;"><br />7. Justificación:</h5>
+<p style="text-align: justify;"><br />El alumnado participa en el análisis de dilemas éticos contemporáneos, identificando los problemas y reflexionando sobre su relevancia en la sociedad. Este enfoque promueve la implicación afectiva del alumnado, al conectar la reflexión filosófica con situaciones reales que afectan su vida y la sociedad. La elaboración del podcast permite que expresen sus opiniones, valoren diferentes perspectivas y desarrollen empatía. Se potencia la comprensión teórica de las distintas posturas éticas y se estimula la capacidad de argumentación. El podcast, como producto final, permite evidenciar la integración de conocimientos y habilidades comunicativas.  </p>
+<p style="text-align: justify;">Esta situación de aprendizaje permite identificar qué teorías filosóficas son más útiles para abordar distintos dilemas, así como reconocer la complejidad de los problemas éticos contemporáneos. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778431339624-chg2wqxr6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<h4 style=\"text-align: center;\"><strong>“La búsqueda de la vida buena: reflexión ética en la sociedad contemporánea”</strong></h4>\n<h5 style=\"text-align: justify;\">1. Centro de interés</h5>\n<ul>\n<li style=\"text-align: justify;\">Despertar en el alumnado una conciencia clara sobre los problemas éticos.</li>\n<li style=\"text-align: justify;\">Atender desde una reflexión crítica, y basándose en las teorías éticas estudiadas,  los desafíos éticos de nuestro tiempo. </li>\n</ul>\n<h5 style=\"text-align: justify;\">2. Nivel, materia e idioma</h5>\n<p style=\"text-align: justify;\">1º de Bachillerato. Asignatura: Filosofía. Se trata de promover la reflexión ética fundamentada para abordar los desafíos actuales Se podría colaborar con el departamento de Lengua y Literatura y tratar transversalmente cómo se han plasmado  las cuestiones éticas desde la literatura.  El idioma vehicular será el Castellano. </p>\n<h5 style=\"text-align: justify;\">3. Temporalización</h5>\n<p style=\"text-align: justify;\">Durante la primera parte del tercer trimestre, la situación de aprendizaje se desarrollará en 15 sesiones, aproximadamente.</p>\n<h5 style=\"text-align: justify;\">4. Descripción general:</h5>\n<p style=\"text-align: justify;\">Desarrollar en el alumnado una conciencia crítica y reflexiva respecto a los problemas éticos, mediante el análisis riguroso de las principales teorías filosóficas a lo largo de la Historia de la Filosofía. A partir de esta comprensión teórica, fomentar la capacidad de reflexión fundamentada para abordar de manera consciente y argumentada los desafíos éticos contemporáneos, incluyendo cuestiones relacionadas con la bioética, la infoética, la desigualdad social, la discriminación, la sostenibilidad medioambiental y la protección de los derechos de los animales.</p>\n<p style=\"text-align: justify;\"><br />Como producto final el alumnado elaborará un podcast en el que analice un problema ético contemporáneo aplicando las teorías filosóficas estudiadas, argumentando posibles soluciones y fomentando la reflexión crítica sobre la sociedad actual.</p>\n<h5 style=\"text-align: justify;\">5. Saberes Básicos:</h5>\n<p style=\"text-align: justify;\">FILO.1.C.1.1. La condición moral del ser humano: libertad y responsabilidad. El problema ético: cómo hemos de actuar. Ser y deber ser. La deliberación moral. Las condiciones del juicio y el diálogo ético. </p>\n<p style=\"text-align: justify;\">FILO.1.C.1.2. La fundamentación del bien moral. La posibilidad de una ética racional. Cognitivismo y emotivismo. El debate en torno al relativismo moral. El reto de una ética universal de mínimos.</p>\n<p style=\"text-align: justify;\">FILO.1.C.1.3. Las principales respuestas al problema ético: éticas consecuencialistas, éticas del deber y éticas de la virtud. La moral amoral de Nietzsche. Éticas del cuidado. Ética medioambiental. Éticas aplicadas.</p>\n<p style=\"text-align: justify;\">FILO.1.C.1.4. Los derechos humanos: su génesis, legitimidad y vigencia actual. Las distintas generaciones de derechos humanos. Los derechos de los animales. FILO.1.C.1.5. Grandes cuestiones éticas de nuestro tiempo: la desigualdad y la pobreza; la igualdad efectiva de derechos entre hombres y mujeres; la guerra, el terrorismo y otras formas de violencia; los derechos de la infancia; la igualdad entre hombres y mujeres; la discriminación y el respeto a las minorías; los problemas ecosociales y medioambientales; los derechos de los animales. Desafío ético para lograr el Desarrollo sostenible. Big Data y la manipulación de la información.</p>\n<h5 style=\"text-align: justify;\">6. Criterios de evaluación:</h5>\n<p style=\"text-align: justify;\">2.2. Desarrollar una actitud indagadora, autónoma y activa en el ámbito de la reflexión filosófica, mediante el diseño, la elaboración y la comunicación pública de productos originales, tales como trabajos de investigación, disertaciones o comentarios de texto. </p>\n<p style=\"text-align: justify;\">8.1. Desarrollar el propio juicio y la autonomía moral mediante el análisis filosófico de problemas éticos y políticos fundamentales y de actualidad, considerando las distintas posiciones en disputa y elaborando, argumentando, exponiendo y sometiendo al diálogo con los demás las propias tesis al respecto. </p>\n<p style=\"text-align: justify;\">8.2. Obtener y demostrar un conocimiento suficientemente profundo de las principales teorías éticas y políticas, utilizándolas para analizar problemas contemporáneos en el ámbito social y político.</p>\n<h5 style=\"text-align: justify;\"><br />7. Justificación:</h5>\n<p style=\"text-align: justify;\"><br />El alumnado participa en el análisis de dilemas éticos contemporáneos, identificando los problemas y reflexionando sobre su relevancia en la sociedad. Este enfoque promueve la implicación afectiva del alumnado, al conectar la reflexión filosófica con situaciones reales que afectan su vida y la sociedad. La elaboración del podcast permite que expresen sus opiniones, valoren diferentes perspectivas y desarrollen empatía. Se potencia la comprensión teórica de las distintas posturas éticas y se estimula la capacidad de argumentación. El podcast, como producto final, permite evidenciar la integración de conocimientos y habilidades comunicativas.  </p>\n<p style=\"text-align: justify;\">Esta situación de aprendizaje permite identificar qué teorías filosóficas son más útiles para abordar distintos dilemas, así como reconocer la complejidad de los problemas éticos contemporáneos. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778422938917-lbmh6yfbt</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Visión global del proyecto.</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Visión global del proyecto.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Visión global del proyecto.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778422938917-lbmh6yfbt</odePageId>
+      <odeBlockId>block-1778422963205-pcokjqxyw</odeBlockId>
+      <blockName>¿Qué vamos a hacer?</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778422938917-lbmh6yfbt</odePageId>
+          <odeBlockId>block-1778422963205-pcokjqxyw</odeBlockId>
+          <odeIdeviceId>idevice-1778422963203-2bc6ms661</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>🎙️ Proyecto: Ética en las ondas. <br />De la teoría al podcast: Analizando el mundo actual<br />Este proyecto invita al alumnado a sumergirse en el pensamiento crítico a través de un viaje que conecta las grandes ideas de la Historia de la Filosofía con los dilemas del siglo XXI.</p>
+<p>🎯 ¿Qué vamos a lograr?<br />- Analizar las principales teorías éticas de la Historia de la Filosofía.<br />- Desarrollar una conciencia crítica ante los problemas morales actuales.<br />- Argumentar con rigor sobre los desafíos éticos de nuestra sociedad.</p>
+<p>🔍 ¿Qué temas exploraremos?<br />Nos enfrentaremos a retos contemporáneos divididos en grandes ejes:<br />- Tecnología: Bioética e Infoética.<br />- Justicia social: Desigualdad y discriminación.<br />- Nuestro entorno: Sostenibilidad y derechos de los animales.</p>
+<p>🚀 El Desafío: Filósofos ante el micrófono<br />¿Tienen Aristóteles, Kant o Mill algo que decir sobre la inteligencia artificial o el cambio climático? Tu misión es demostrar que sí.<br />Investiga: Indaga en las raíces del pensamiento ético universal.<br />Conecta: Aplica esas teorías a problemas urgentes: desde la brecha digital hasta el bienestar animal.</p>
+<p>📦Producto final<br />El aprendizaje culminará con la creación de un pódcast Ético. <br />En él, aplicaréis el rigor filosófico para proponer soluciones a un problema real, fomentando el debate y la reflexión en nuestra comunidad educativa.<br /></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778422963203-2bc6ms661","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>🎙️ Proyecto: Ética en las ondas. <br />De la teoría al podcast: Analizando el mundo actual<br />Este proyecto invita al alumnado a sumergirse en el pensamiento crítico a través de un viaje que conecta las grandes ideas de la Historia de la Filosofía con los dilemas del siglo XXI.</p>\n<p>🎯 ¿Qué vamos a lograr?<br />- Analizar las principales teorías éticas de la Historia de la Filosofía.<br />- Desarrollar una conciencia crítica ante los problemas morales actuales.<br />- Argumentar con rigor sobre los desafíos éticos de nuestra sociedad.</p>\n<p>🔍 ¿Qué temas exploraremos?<br />Nos enfrentaremos a retos contemporáneos divididos en grandes ejes:<br />- Tecnología: Bioética e Infoética.<br />- Justicia social: Desigualdad y discriminación.<br />- Nuestro entorno: Sostenibilidad y derechos de los animales.</p>\n<p>🚀 El Desafío: Filósofos ante el micrófono<br />¿Tienen Aristóteles, Kant o Mill algo que decir sobre la inteligencia artificial o el cambio climático? Tu misión es demostrar que sí.<br />Investiga: Indaga en las raíces del pensamiento ético universal.<br />Conecta: Aplica esas teorías a problemas urgentes: desde la brecha digital hasta el bienestar animal.</p>\n<p>📦Producto final<br />El aprendizaje culminará con la creación de un pódcast Ético. <br />En él, aplicaréis el rigor filosófico para proponer soluciones a un problema real, fomentando el debate y la reflexión en nuestra comunidad educativa.<br /></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778422938917-lbmh6yfbt</odePageId>
+      <odeBlockId>block-1778430387336-nrsii28du</odeBlockId>
+      <blockName>Cronograma</blockName>
+      <iconName>chrono</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778422938917-lbmh6yfbt</odePageId>
+          <odeBlockId>block-1778430387336-nrsii28du</odeBlockId>
+          <odeIdeviceId>idevice-1778430387335-i6jycax3w</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>15h</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd></dd></div></dl><p><img src="{{context_path}}/content/resources/unnamed (11).png" title="Hoja de ruta" width="1280" height="714" alt="Ruta" /></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778430387335-i6jycax3w","textInfoDurationInput":"15h","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>15h</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd></dd></div></dl><p><img src=\"{{context_path}}/content/resources/unnamed (11).png\" title=\"Hoja de ruta\" width=\"1280\" height=\"714\" alt=\"Ruta\" /></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778422938917-lbmh6yfbt</odePageId>
+      <odeBlockId>block-1778423052465-wm0s4rzzj</odeBlockId>
+      <blockName>Organización</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778422938917-lbmh6yfbt</odePageId>
+          <odeBlockId>block-1778423052465-wm0s4rzzj</odeBlockId>
+          <odeIdeviceId>idevice-1778423052464-a0s3l7dos</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<ul>
+<li><strong>Fase 1. Investigación y consulta de fuentes: Comprensión de las teorías éticas y elaboración de un mapa conceptual con los contenidos</strong></li>
+<li><strong>Fase 2. Diseño del proyecto: Organización en grupos de 4 o 5 alumnos, vinculación de los contenidos teóricos a un tema de actualidad a través del debate y elaboración de un resumen de la reflexión en común.</strong></li>
+<li><strong>Fase 3. Planificación metodológica: Justificación, hipótesis y metodología; elección de asociaciones o profesionales a entrevistar, y elaboración de materiales como entrevistas o encuestas. </strong></li>
+<li><strong>Fase 4. Trabajo de Campo: Ejecución de la investigación, contacto con los profesionales/asociaciones y elaboración de un informe con los logros e información recopilada.</strong></li>
+<li><strong>Fase 5. Preproducción: Elaboración de un guion estructurado para el programa de radio</strong></li>
+<li><strong>Fase 6. Producción: Grabación del programa en el estudio de radio del instituto.</strong></li>
+<li><strong>Fase 7. Difusión: Lanzamiento del producto final a las ondas a través de la plataforma Spotify for Creators.</strong></li>
+</ul>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778423052464-a0s3l7dos","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<ul>\n<li><strong>Fase 1. Investigación y consulta de fuentes: Comprensión de las teorías éticas y elaboración de un mapa conceptual con los contenidos</strong></li>\n<li><strong>Fase 2. Diseño del proyecto: Organización en grupos de 4 o 5 alumnos, vinculación de los contenidos teóricos a un tema de actualidad a través del debate y elaboración de un resumen de la reflexión en común.</strong></li>\n<li><strong>Fase 3. Planificación metodológica: Justificación, hipótesis y metodología; elección de asociaciones o profesionales a entrevistar, y elaboración de materiales como entrevistas o encuestas. </strong></li>\n<li><strong>Fase 4. Trabajo de Campo: Ejecución de la investigación, contacto con los profesionales/asociaciones y elaboración de un informe con los logros e información recopilada.</strong></li>\n<li><strong>Fase 5. Preproducción: Elaboración de un guion estructurado para el programa de radio</strong></li>\n<li><strong>Fase 6. Producción: Grabación del programa en el estudio de radio del instituto.</strong></li>\n<li><strong>Fase 7. Difusión: Lanzamiento del producto final a las ondas a través de la plataforma Spotify for Creators.</strong></li>\n</ul>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778428660053-0rgwvsi97</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Seguridad Digital</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Seguridad Digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Seguridad Digital</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778428660053-0rgwvsi97</odePageId>
+      <odeBlockId>block-1778428683438-dcen0ezji</odeBlockId>
+      <blockName>Atención: seguridad digital. Una guía de buenas prácticas.</blockName>
+      <iconName>alert</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778428660053-0rgwvsi97</odePageId>
+          <odeBlockId>block-1778428683438-dcen0ezji</odeBlockId>
+          <odeIdeviceId>idevice-1778428683437-fek4io56a</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Seguridad y licencias.png" title="Seguridad digital" width="1280" height="2293" alt="Licencias" /><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778428683437-fek4io56a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Seguridad y licencias.png\" title=\"Seguridad digital\" width=\"1280\" height=\"2293\" alt=\"Licencias\" /><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778424620802-1ud69sh6d</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Fases del proyecto.</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Fases del proyecto.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Fases del proyecto.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778424620802-1ud69sh6d</odePageId>
+      <odeBlockId>block-1778424637997-b5yg3gtue</odeBlockId>
+      <blockName>Fase 1. Iniciamos nuestro proyecto</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778424620802-1ud69sh6d</odePageId>
+          <odeBlockId>block-1778424637997-b5yg3gtue</odeBlockId>
+          <odeIdeviceId>idevice-1778424637994-gx17f2i59</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta fase inicial debes acceder a la información y adquirir los conocimientos adecuados sobre la Ética como rama de la Filosofía. </p>
+<p>A continuación te presentaremos los enlaces a las páginas web sobre Filosofía más fiables y a los vídeos más adecuados para que consigas profundizar en los saberes básicos y logres una buena base teórica para el desarrollo del proyecto. </p>
+<p><strong>Tarea final</strong>: elaboro un mapa conceptual y lo adjunto en formato Pdf. </p>
+<p></p>
+<p></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778424637994-gx17f2i59","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta fase inicial debes acceder a la información y adquirir los conocimientos adecuados sobre la Ética como rama de la Filosofía. </p>\n<p>A continuación te presentaremos los enlaces a las páginas web sobre Filosofía más fiables y a los vídeos más adecuados para que consigas profundizar en los saberes básicos y logres una buena base teórica para el desarrollo del proyecto. </p>\n<p><strong>Tarea final</strong>: elaboro un mapa conceptual y lo adjunto en formato Pdf. </p>\n<p></p>\n<p></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778424620802-1ud69sh6d</odePageId>
+      <odeBlockId>block-1778424795547-1j8g25hzd</odeBlockId>
+      <blockName>Accedemos a la información para una buena base teórica.</blockName>
+      <iconName>explore</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778424620802-1ud69sh6d</odePageId>
+          <odeBlockId>block-1778424795547-1j8g25hzd</odeBlockId>
+          <odeIdeviceId>idevice-1778424795545-t08sikbxy</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/laclasedefilosofia/podcast-etica-y-actualidad-zptoq0rll4eg9kpt" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778424620802-1ud69sh6d</odePageId>
+      <odeBlockId>block-1778434234127-6w1u8eg80</odeBlockId>
+      <blockName>Fase 2. Diseñamos nuestro proyecto</blockName>
+      <iconName>agreement</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778424620802-1ud69sh6d</odePageId>
+          <odeBlockId>block-1778434234127-6w1u8eg80</odeBlockId>
+          <odeIdeviceId>idevice-1778434234127-845dnq73x</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta fase debemos agruparnos en equipos de 4 o 5 participantes para comenzar el aprendizaje colaborativo. </p>
+<p>Una vez que estamos en un equipo debemos comenzar un diálogo reflexivo en común que conecte lo estudiado en la fase 1 con algún tema de actualidad qué os interese. Ideas: redes sociales, derechos de los animales, uso de patinetes, juventud y adicciones, IA).</p>
+<p>Para llevar a cabo este diálogo reflexivo podemos ir anotando ideas en un documento de Google Docs colaborativo, crear una reunión con Webex, o abrir un Padlet del grupo de trabajo).</p>
+<p>Una vez hemos conseguido conectar alguna o algunas teorías éticas con un centro de motivación actual, debemos elaborar un resumen de todas las ideas de nuestra reflexión en común. </p>
+<p><strong>Tarea final: </strong>elaboramos un resumen de nuestra reflexión en el conectamos teoría y un tema de actualidad y lo adjuntamos en Pdf. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778434234127-845dnq73x","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta fase debemos agruparnos en equipos de 4 o 5 participantes para comenzar el aprendizaje colaborativo. </p>\n<p>Una vez que estamos en un equipo debemos comenzar un diálogo reflexivo en común que conecte lo estudiado en la fase 1 con algún tema de actualidad qué os interese. Ideas: redes sociales, derechos de los animales, uso de patinetes, juventud y adicciones, IA).</p>\n<p>Para llevar a cabo este diálogo reflexivo podemos ir anotando ideas en un documento de Google Docs colaborativo, crear una reunión con Webex, o abrir un Padlet del grupo de trabajo).</p>\n<p>Una vez hemos conseguido conectar alguna o algunas teorías éticas con un centro de motivación actual, debemos elaborar un resumen de todas las ideas de nuestra reflexión en común. </p>\n<p><strong>Tarea final: </strong>elaboramos un resumen de nuestra reflexión en el conectamos teoría y un tema de actualidad y lo adjuntamos en Pdf. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778424620802-1ud69sh6d</odePageId>
+      <odeBlockId>block-1778434751035-df2bkedzf</odeBlockId>
+      <blockName>Fase 3. Elaboramos el borrador</blockName>
+      <iconName>agreement</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778424620802-1ud69sh6d</odePageId>
+          <odeBlockId>block-1778434751035-df2bkedzf</odeBlockId>
+          <odeIdeviceId>idevice-1778434751032-zr2ylmph8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta fase debemos elaborar un borrador que contenga los siguientes elementos: </p>
+<p>1. Nombre  de grupo y participantes.<br />2. Título del proyecto definitivo. </p>
+<p><br /><strong>Apartados</strong><br />Justificación del tema ¿Por qué es importante investigar esta cuestión<br />Hipótesis planteada ¿ Qué resultados espero encontrar? ¿Quiero cambiarlos?<br />Lista de asociaciones, ONGs, o instituciones públicas (con sede en Málaga) que se va a consultar (web, dirección, teléfono, correo, página de instagram si procede).<br />Metodologías que se van a utilizar.<br />Elaboración de materiales según metodología (elegir según proceda): a) batería de preguntas para las entrevistas (sociedad civil y profesionales). b) batería de cuestiones para la encuesta a la población general. c)proyecto de voluntariado u observación participante.<br />Redacción de correos electrónicos o mensajes; realización de llamadas a las asociaciones o instituciones pertinentes para coger cita; visitas presenciales a las instituciones para solicitar cita (Junta de Distrito, La Caja Blanca, etc.)<br /><strong>Comentario-resumen</strong><br />Primeros contactos a las fuentes consultadas y los avances del borrador:       <br />¿He conseguido contactar con mis fuentes?</p>
+<p><br />¿He logrado obtener cita para una visita oficial o alguna forma de realizar las entrevistas de forma telemática? </p>
+<p>¿Tengo clara la estrategia para difundir mis encuestas y que el resultado sea relevante?</p>
+<p>¿He preparado los permisos necesarios para que los firmen los participantes en caso de querer difundir su imagen o voz en vídeo o audio?</p>
+<p>¿Tengo claro el grupo al que irá dirigido mi producto final? (Población general, alumnado de la ESO (indicar nivel), alumnado de Bachillerato, etc. </p>
+<p><br /><strong>Normas formales:</strong><br />Times New Roman, tamaño 12, interlineado 1,5).Entregar en PDF adjunto.</p>
+<p><br /></p>
+<p><br /><strong>Tarea final: </strong>elaboramos una lista de cotejo.</p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778434751032-zr2ylmph8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta fase debemos elaborar un borrador que contenga los siguientes elementos: </p>\n<p>1. Nombre  de grupo y participantes.<br />2. Título del proyecto definitivo. </p>\n<p><br /><strong>Apartados</strong><br />Justificación del tema ¿Por qué es importante investigar esta cuestión<br />Hipótesis planteada ¿ Qué resultados espero encontrar? ¿Quiero cambiarlos?<br />Lista de asociaciones, ONGs, o instituciones públicas (con sede en Málaga) que se va a consultar (web, dirección, teléfono, correo, página de instagram si procede).<br />Metodologías que se van a utilizar.<br />Elaboración de materiales según metodología (elegir según proceda): a) batería de preguntas para las entrevistas (sociedad civil y profesionales). b) batería de cuestiones para la encuesta a la población general. c)proyecto de voluntariado u observación participante.<br />Redacción de correos electrónicos o mensajes; realización de llamadas a las asociaciones o instituciones pertinentes para coger cita; visitas presenciales a las instituciones para solicitar cita (Junta de Distrito, La Caja Blanca, etc.)<br /><strong>Comentario-resumen</strong><br />Primeros contactos a las fuentes consultadas y los avances del borrador:       <br />¿He conseguido contactar con mis fuentes?</p>\n<p><br />¿He logrado obtener cita para una visita oficial o alguna forma de realizar las entrevistas de forma telemática? </p>\n<p>¿Tengo clara la estrategia para difundir mis encuestas y que el resultado sea relevante?</p>\n<p>¿He preparado los permisos necesarios para que los firmen los participantes en caso de querer difundir su imagen o voz en vídeo o audio?</p>\n<p>¿Tengo claro el grupo al que irá dirigido mi producto final? (Población general, alumnado de la ESO (indicar nivel), alumnado de Bachillerato, etc. </p>\n<p><br /><strong>Normas formales:</strong><br />Times New Roman, tamaño 12, interlineado 1,5).Entregar en PDF adjunto.</p>\n<p><br /></p>\n<p><br /><strong>Tarea final: </strong>elaboramos una lista de cotejo.</p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778424620802-1ud69sh6d</odePageId>
+      <odeBlockId>block-1778434914298-oigqt1zxz</odeBlockId>
+      <blockName>Fase 4. Hacemos trabajo de campo</blockName>
+      <iconName>stop</iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778424620802-1ud69sh6d</odePageId>
+          <odeBlockId>block-1778434914298-oigqt1zxz</odeBlockId>
+          <odeIdeviceId>idevice-1778434914296-9gz5d9oma</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Tarea final: </strong>elaboramos un breve informe de los resultados de la investigación y lo adjuntamos en Pdf (máximo 2 páginas).</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778434914296-9gz5d9oma","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Tarea final: </strong>elaboramos un breve informe de los resultados de la investigación y lo adjuntamos en Pdf (máximo 2 páginas).</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778424620802-1ud69sh6d</odePageId>
+      <odeBlockId>block-1778435010920-icncxh8tw</odeBlockId>
+      <blockName>Fases 5, 6 y 7. Elaboramos guion, grabamos y difundimos</blockName>
+      <iconName>listen</iconName>
+      <odePagStructureOrder>5</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778424620802-1ud69sh6d</odePageId>
+          <odeBlockId>block-1778435010920-icncxh8tw</odeBlockId>
+          <odeIdeviceId>idevice-1778435010919-kgx9r8qlt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Producto final</strong>  elaboración, ejecución grabación y difusión del podcast. </p>
+<p>Calificación del 1 al 10. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778435010919-kgx9r8qlt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Producto final</strong>  elaboración, ejecución grabación y difusión del podcast. </p>\n<p>Calificación del 1 al 10. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778431662708-7acq4y76i</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>19</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778431662708-7acq4y76i</odePageId>
+      <odeBlockId>block-1778431978416-k5piyflhs</odeBlockId>
+      <blockName>Fuentes, recursos y herramientas</blockName>
+      <iconName>nature</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778431662708-7acq4y76i</odePageId>
+          <odeBlockId>block-1778431978416-k5piyflhs</odeBlockId>
+          <odeIdeviceId>idevice-1778431978413-317j87hwi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<p><img src="{{context_path}}/content/resources/unnamed (16).png" title="Recursos" width="1280" height="714" alt="Fuentes" /><br /></p>
+<h6>Créditos:<br /> <br /><strong>1. Herramientas utilizadas:</strong></h6>
+<p>Canva, NotebookLM, Padlet, Bubbl.us, Audacity, Spotify for creators.<br /> <br /><strong>2. Webgrafía:</strong><br />www.Bípedosimplumes.es<br />www.webdanoia.com<br />www. lalechuzademinerva.es<br />This is Philosophy de RTVE<br />Youtube: Adictos a la Filosofía.</p>
+<h6>3. Autoría:</h6>
+<p>Andrea Gómez Giraldo<br /> <br /><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778431978413-317j87hwi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<p><img src=\"{{context_path}}/content/resources/unnamed (16).png\" title=\"Recursos\" width=\"1280\" height=\"714\" alt=\"Fuentes\" /><br /></p>\n<h6>Créditos:<br /> <br /><strong>1. Herramientas utilizadas:</strong></h6>\n<p>Canva, NotebookLM, Padlet, Bubbl.us, Audacity, Spotify for creators.<br /> <br /><strong>2. Webgrafía:</strong><br />www.Bípedosimplumes.es<br />www.webdanoia.com<br />www. lalechuzademinerva.es<br />This is Philosophy de RTVE<br />Youtube: Adictos a la Filosofía.</p>\n<h6>3. Autoría:</h6>\n<p>Andrea Gómez Giraldo<br /> <br /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
